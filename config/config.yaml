@@ -103,7 +103,7 @@ rss:
     - id: "yahoo-finance"
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
-      enabled: false                  # 禁用
+      enabled: true                  # 开启
 
     # 自定义源示例
     # - id: "custom-feed"
